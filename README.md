@@ -1,2 +1,2 @@
 
-vless://4e299876-317a-458e-9593-ef6a3d86547e@unvari.thatfreeservicewhicheveryoneuse.uk:8080?path=%2F&security=none&encryption=none&type=ws#VLESS-Telegram_t.me%2Ftherealaleph
+vless://a39f6b08-1b5d-472d-ac5e-ce2f20671ae3@5.75.158.87:2082?path=%2F&security=none&encryption=none&type=ws#VLESS-Telegram_t.me%2Ftherealaleph
