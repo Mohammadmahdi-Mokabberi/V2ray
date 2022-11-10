@@ -1,9 +1,5 @@
-trojan://bccb6d26-5270-4317-97b6-d46a0c2c7d9b@therealaleph-tj1.gozargah.uk:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=therealaleph-tj1.gozargah.uk#therealaleph-on-telegram
+vless://4b61d830-f727-43a9-babf-dede7bcd76bb@therealaleph.thatfreeservicewhicheveryoneuse.uk:8080?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
 
 
-trojan://3e81cfb7-c53e-47a5-be13-2e5a32bc54ff@therealaleph-tj2.gozargah.uk:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=therealaleph-tj2.gozargah.uk#therealaleph-on-telegram
-
-
-trojan://c30623f4-dc56-4f89-b0f6-86cb764c8ca8@therealaleph-tj3.gozargah.uk:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=therealaleph-tj3.gozargah.uk#therealaleph-on-telegram
-
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVk1FU1MtVGVsZWdyYW1fdC5tZS90aGVyZWFsYWxlcGgiLCAiYWRkIjogInRoZXJlYWxhbGVwaC50aGF0ZnJlZXNlcnZpY2V3aGljaGV2ZXJ5b25ldXNlLnVrIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiM2JiZjVjMGYtOWZiYy00YjRjLWI2NDEtMGNmNDdiMmU1YWU5IiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
