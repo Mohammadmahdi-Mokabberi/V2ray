@@ -1,19 +1,16 @@
-vless://fed7e147-12ee-4cdf-a7c7-b4c4bbf284a0@farsnews.ir.thatfreeservicewhicheveryoneuse.uk:8080?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://578a9dcc-a634-4749-95bc-e04087ef2d9e@farsnews.ir.thatfreeservicewhicheveryoneuse.uk:8880?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+vless://29c261ed-92a8-491c-a662-c6b377b4579e@aleph-fr12351.gozargah.uk:2052?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://199a97f3-d40d-40ae-981a-cf5ac139d9d4@farsnews.ir.thatfreeservicewhicheveryoneuse.uk:2052?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+vless://5699043b-63a2-47c6-a267-b13be8b2bd5f@aleph-fr25809.gozargah.uk:2086?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://e40fbc1e-94a9-45d4-958f-d742deb2085b@farsnews.ir.thatfreeservicewhicheveryoneuse.uk:2082?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://7755d080-16a0-4ec2-b95b-d8be5cefb87f@farsnews.ir.thatfreeservicewhicheveryoneuse.uk:2086?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+vless://dbb08c95-0356-4722-a40e-72e824190ee3@167.235.159.246:2082?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://2f2d6fa8-8281-4192-a444-caf1d26a991e@aleph-8293ng42w.thatfreeservicewhicheveryoneuse.uk:8080?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+vless://a7cfd508-0081-4674-916c-b98a5b124881@167.235.159.246:2052?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://1261a870-77a5-4221-b97f-ca3834a37759@aleph-8293ng42w.thatfreeservicewhicheveryoneuse.uk:8880?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVk1FU1MtVGVsZWdyYW1fdC5tZS90aGVyZWFsYWxlcGgiLCAiYWRkIjogImZhcnNuZXdzLmlyLnRoYXRmcmVlc2VydmljZXdoaWNoZXZlcnlvbmV1c2UudWsiLCAicG9ydCI6IDIwOTUsICJpZCI6ICIyNTNmODM0MC1jYjM1LTQ3M2UtYjJhNS00NzE0NzBiYWE0ZTkiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJub25lIn0=
 
-vless://2d99b3e1-c2ed-4317-bac4-6f39ba65dfbf@aleph-8293ng42w.thatfreeservicewhicheveryoneuse.uk:2052?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+trojan://d76294c5-a31f-408d-ba0b-89880107cab5@aleph-tj015.thatfreeservicewhicheveryoneuse.uk:443?peer=aleph-tj015.thatfreeservicewhicheveryoneuse.uk&sni=aleph-tj015.thatfreeservicewhicheveryoneuse.uk&alpn=http/1.1#aleph
 
-vless://e8ce87df-cfe2-4b6d-bb3a-45dd78955328@aleph-8293ng42w.thatfreeservicewhicheveryoneuse.uk:2082?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
 
-vless://8751de45-e809-446a-9634-645b170df8e1@aleph-8293ng42w.thatfreeservicewhicheveryoneuse.uk:2086?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+
