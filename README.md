@@ -1,1 +1,1 @@
-vless://c4bba650-e5fe-4513-a784-1b97c49fa9df@70.34.209.52:28324?path=%2F&security=none&encryption=none&type=ws#aleph-vless
+vless://3a779aa2-c9c5-4c0c-9e98-7e1f71b512ce@70.34.209.52:30414?path=%2F&security=none&encryption=none&type=ws#aleph-vless
