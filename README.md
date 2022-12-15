@@ -1,1 +1,1 @@
-vless://3a779aa2-c9c5-4c0c-9e98-7e1f71b512ce@70.34.209.52:30414?path=%2F&security=none&encryption=none&type=ws#aleph-vless
+vmess://eyJhZGQiOiI3MC4zNC4yMDkuNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImQ1ZDg3Y2NlLTE1NjMtNDQ3Yi1iM2E1LWU5Y2QxNDk5M2U2YiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjM5NjEiLCJwcyI6ImFsZXBoLXZtZXNzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==
