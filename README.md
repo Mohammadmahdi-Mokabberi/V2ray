@@ -1,18 +1,15 @@
-https://t.me/proxy?server=good.haval.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sFhcHBsZS5jb20%3D
+tg://proxy?server=104.149.130.165&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ
 
 
+https://t.me/proxy?server=104.216.1.34&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ
 
 
-
-https://t.me/proxy?server=50.7.44.53&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
-
+https://t.me/proxy?server=Xn--Ir.55.fajfvdjeocbsjvdjwpbxbalw.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkcm9wYm94LmNvbQ
 
 
-
-https://t.me/proxy?server=xn--tor5qut368enl2c.xn--tor5qut368enl2c.xn--tor5qut368enl2c.xn--tor5qut368enl2c.xn--tor5qut368enl2c.xn--tor5qut368enl2c.xn--tor5qut368enl2c.cafe-cancell.lol&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABhcHBsZS5jb20
-
+https://t.me/proxy?server=Kesliii.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkcm9wYm94LmNvbQ==
 
 
+https://t.me/proxy?server=www.mobileman.lol.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ%3D%3D
 
-https://t.me/proxy?server=209.127.228.146&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 
